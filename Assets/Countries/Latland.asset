@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ece14e0806a284bb067307351e8e4c, type: 3}
+  m_Name: Latland
+  m_EditorClassIdentifier: 
+  countryName: Latland
+  ideology: 2
+  flag: {fileID: 2800000, guid: d8114830d6e7a6d42bdb60d8fe74596f, type: 3}
+  countryColor: {r: 0.25698647, g: 0.34225827, b: 0.7264151, a: 0}
+  politicalPower: 0
+  militaryBonus: 0
+  money: 0
+  stability: 80
+  warSupport: 0
+  population: 0
